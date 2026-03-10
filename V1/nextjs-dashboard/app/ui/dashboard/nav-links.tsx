@@ -1,4 +1,5 @@
 'use client';
+// This component is used in the side navigation of the dashboard layout. It uses the `usePathname` hook to determine which link is active and applies different styles accordingly.
 import {
   UserGroupIcon,
   HomeIcon,
